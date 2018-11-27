@@ -1,4 +1,4 @@
-package com.github.brunolncosta.javaocp8.enumeration;
+package com.github.brunolncosta.javaocp8.chapter1.section6_work_with_enum;
 
 import org.junit.jupiter.api.Test;
 
